@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(200, 190, 102);
+}
+
+.main-heading, 
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+
+.main-heading{
+    
+    text-align: center;
+}
+
+.nav-bar li a{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.steps-list{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.description-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    
+}
